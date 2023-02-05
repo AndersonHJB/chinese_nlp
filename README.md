@@ -4,7 +4,7 @@
 
 课程链接：[https://bornforthis.cn/column/nlp/](https://bornforthis.cn/column/nlp/)
 
-CSDN博客：[https://bornforthis.cn/](https://bornforthis.cn/)
+CSDN博客：[https://blog.csdn.net/qq_33254766](https://blog.csdn.net/qq_33254766)
 
 2023年01月19日，对缺失的语料数据进行了补充，主要增加了03,12,13节的缺失语料数据。
 
